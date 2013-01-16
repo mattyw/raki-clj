@@ -1,4 +1,12 @@
 raki-clj
 ========
 
-Grab data from https://www.mastodonc.com/ about greenest clouds
+Grab live carbon rankings from https://www.mastodonc.com/
+
+## Usage
+
+lein run
+
+## License
+
+Distributed under the Eclipse Public License, the same as Clojure.
